@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/LUBFIL-E-commerce/static/css/main.6412a52b.css",
+    "main.js": "/LUBFIL-E-commerce/static/js/main.d50a2ad3.js",
+    "static/js/787.5c38befa.chunk.js": "/LUBFIL-E-commerce/static/js/787.5c38befa.chunk.js",
+    "static/media/motor-banner.jpg": "/LUBFIL-E-commerce/static/media/motor-banner.172c124804a103c3890c.jpg",
+    "static/media/car-banner.jpg": "/LUBFIL-E-commerce/static/media/car-banner.d1e2639649e751f0c38e.jpg",
+    "static/media/filter-banner.jpg": "/LUBFIL-E-commerce/static/media/filter-banner.fd1af80bbf14bc445e4a.jpg",
+    "static/media/hero.jpg": "/LUBFIL-E-commerce/static/media/hero.5beb79f35f278a60768d.jpg",
+    "static/media/Mobil-1-Extended-Performance-Full-Synthetic-Motor-Oil.webp": "/LUBFIL-E-commerce/static/media/Mobil-1-Extended-Performance-Full-Synthetic-Motor-Oil.fbed219d440fb0554bbe.webp",
+    "static/media/MANN-FILTERS FUEL FILTERS.jpg": "/LUBFIL-E-commerce/static/media/MANN-FILTERS FUEL FILTERS.858eca4c742930372f68.jpg",
+    "static/media/FILTER WRENCH (76 MM).jpg": "/LUBFIL-E-commerce/static/media/FILTER WRENCH (76 MM).0bfe3a5db3a31d9ede3a.jpg",
+    "static/media/wave-hand.png": "/LUBFIL-E-commerce/static/media/wave-hand.dee648757c0af30379a3.png",
+    "static/media/FILTER CAP WRENCH 65MM.jpg": "/LUBFIL-E-commerce/static/media/FILTER CAP WRENCH 65MM.b765f020a471b3cdae9f.jpg",
+    "static/media/FILTER WRENCH (74 MM).jpg": "/LUBFIL-E-commerce/static/media/FILTER WRENCH (74 MM).47d7f926433350d06b2c.jpg",
+    "static/media/FILTER WRENCH (64 MM).jpg": "/LUBFIL-E-commerce/static/media/FILTER WRENCH (64 MM).661059a593f5e939f562.jpg",
+    "static/media/FILTER WRENCH (93 MM).jpg": "/LUBFIL-E-commerce/static/media/FILTER WRENCH (93 MM).7802695e0309dab17f7f.jpg",
+    "static/media/WIX FUEL FILTERS.jpg": "/LUBFIL-E-commerce/static/media/WIX FUEL FILTERS.fb6c425b53fcefc38084.jpg",
+    "static/media/DONALDSON P-SERIES HEAVY DUTY FUEL FILTERS.jpg": "/LUBFIL-E-commerce/static/media/DONALDSON P-SERIES HEAVY DUTY FUEL FILTERS.293b36b8d2bd614829ba.jpg",
+    "static/media/instagram.png": "/LUBFIL-E-commerce/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/whatsapp.png": "/LUBFIL-E-commerce/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/logo.png": "/LUBFIL-E-commerce/static/media/logo.e68d2b56b14214153217.png",
+    "static/media/star.png": "/LUBFIL-E-commerce/static/media/star.6f09a733e42c479fe607.png",
+    "static/media/down-arrow.png": "/LUBFIL-E-commerce/static/media/down-arrow.bbf8cd7e337423563d8d.png",
+    "static/media/pennzoil-ultra-platinum.webp": "/LUBFIL-E-commerce/static/media/pennzoil-ultra-platinum.89f3c947028d2d05de35.webp",
+    "static/media/facebook.png": "/LUBFIL-E-commerce/static/media/facebook.4f037d961598aff2a0a4.png",
+    "static/media/amsoil-signature-synthetic.webp": "/LUBFIL-E-commerce/static/media/amsoil-signature-synthetic.7fa6d3b5ef0d40181036.webp",
+    "static/media/valvoline-high-mileage-maxlife.webp": "/LUBFIL-E-commerce/static/media/valvoline-high-mileage-maxlife.efb4d59bd96f3fd28082.webp",
+    "static/media/quaker-state-all-mileage.webp": "/LUBFIL-E-commerce/static/media/quaker-state-all-mileage.03ea5a9fd55d0fda79a4.webp",
+    "static/media/valvoline-advance-full-synthetic.webp": "/LUBFIL-E-commerce/static/media/valvoline-advance-full-synthetic.6f24f1a4f2bb3972a305.webp",
+    "static/media/valvoline-daily-protection.webp": "/LUBFIL-E-commerce/static/media/valvoline-daily-protection.dbdcf77bae8a5a53f9f1.webp",
+    "static/media/castrol-gtx-magnatec.webp": "/LUBFIL-E-commerce/static/media/castrol-gtx-magnatec.bbba1c1275c34efaced9.webp",
+    "static/media/castrol-gtx.webp": "/LUBFIL-E-commerce/static/media/castrol-gtx.df57111c7ebeec8b1dc0.webp",
+    "index.html": "/LUBFIL-E-commerce/index.html",
+    "main.6412a52b.css.map": "/LUBFIL-E-commerce/static/css/main.6412a52b.css.map",
+    "main.d50a2ad3.js.map": "/LUBFIL-E-commerce/static/js/main.d50a2ad3.js.map",
+    "787.5c38befa.chunk.js.map": "/LUBFIL-E-commerce/static/js/787.5c38befa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6412a52b.css",
+    "static/js/main.d50a2ad3.js"
+  ]
+}
