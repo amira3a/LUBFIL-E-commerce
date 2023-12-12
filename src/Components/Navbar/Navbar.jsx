@@ -18,7 +18,7 @@ const {getTotalCartItems} = useContext(ShopContext);
           <img src={logo} alt='' />
         </div>
         <ul className='nav-menu'>
-          <li onClick={()=>{setmenu("shop")}}><Link style={{textDecoration:'none'}} to='/'>Shop</Link>{menu==="shop" ? <hr/> : <></>}</li>
+          <li onClick={()=>{setmenu("shop")}}><Link style={{textDecoration:'none'}} to='/LUBFIL-E-commerce/'>Shop</Link>{menu==="shop" ? <hr/> : <></>}</li>
           <li onClick={()=>{setmenu("car")}}><Link style={{textDecoration:'none'}} to='/carOil'>Car Oil</Link>{menu==="car" ? <hr/> : <></>}</li>
           <li onClick={()=>{setmenu("motor")}}><Link style={{textDecoration:'none'}} to='/motorcycleOil'>Motorcycle Oil</Link>{menu==="motor" ? <hr/> : <></>}</li>
           <li onClick={()=>{setmenu("filters")}}><Link style={{textDecoration:'none'}} to='/filters'>Filters</Link>{menu==="filters" ? <hr/> : <></>}</li>
