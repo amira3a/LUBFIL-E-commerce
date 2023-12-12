@@ -19,7 +19,7 @@ function App() {
       <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path='/' element={<Shop/>}/>
+        <Route path='/LUBFIL-E-commerce/' element={<Shop/>}/>
         <Route path='/carOil' element={<ShopCategory banner={car_banner} category="carOil"/>}/>
         <Route path='/motorcycleOil' element={<ShopCategory banner={motor_banner} category="motorcycleOil"/>}/>
         <Route path='/filters' element={<ShopCategory banner={filter_banner} category="filters"/>}/>
